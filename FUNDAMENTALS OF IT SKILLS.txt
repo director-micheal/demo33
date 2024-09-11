@@ -1,0 +1,68 @@
+THE BASIC IT SKILLS ARE OPERATING SYSTEM,NETWOTK SKILLS,SECURITY SKILLS,CLOUD SKILLS AND ALSO PROGRAMMING SKILLS.
+AN OPERATING SYSTEM IS A SYSTEM SOFTWARE THAT MANGAGES THE HARDWARE AND SOFTWARE RESOURCES AND PROVIDES COMMON SERVICES FOR COMPUTER PROGRAMS
+THE FRIST OPERATING SYSTEM WAS DEVELPOED IN THE YEAR 1956 BY GENERAL MOTORS TO RUN A SINGLE IBM COMPUTERS.IT WAS IN THE 1960'S THE IBM HAD STARTED INSTALLING OS IN THE DEVICES THEY LAUNCHED
+THE FIRST VERSION OF THE UNIX OPERATING YSTEM WAS LAUNCHED IN THE 1960'S AND WAS WRITTEN IN PROGRAMMING C LANGUAGE.
+
+TYPES OF OPERATING SYSTEM
+1.BATCH OPERATING SYSTEM
+2.REAL-TIME OPERAATING SYSTEM
+3.TIME SHARING OPERATING SYSTEM
+4.DISTRIBUTED OPERATING SYSTEM
+5.EMBEDDED OPERATING SYSTEM
+6.NETWORK OPERATING SYSTEM
+7.MOBILE OPERATING SYSTEM
+
+
+
+1. Batch Operating System
+There is no direct communication between the computer and the OS
+There is an intermediate, the Operator, which needs to distribute the work into batches and sort similar jobs
+Multiple users can use it
+Can easily manager a large amount of work
+
+2. Real-Time Operating System
+It has a data processing system
+The processing time is very small between the user’s command and the output
+Used in fields where the response needs to be quick and rapid
+
+3. Time-Sharing Operating System
+Multiple people at various terminals can use a program at the same time 
+The main motive is to minimize the response time
+
+4. Distributed Operating System
+When two or more systems are connected to each other and one can open files which are not present in their system but in other devices connected in the network
+Its usage has now increased over the years
+They use multiple central processors to serve real-time applications
+Failure of one system does not affect the other systems connected in the network
+
+5. Embedded Operating System
+These special Operating systems are built into larger systems
+They generally are limited to single specific functions like an ATM
+
+6. Network Operating System
+They have one main server which is connected to other client servers
+All the management of files, processing of data, access to sharing files, etc. are performed over this small network
+It is also a secure operating system for working with multiple users
+
+7. Mobile Operating System
+With the advancement in the field of technology, smartphones now are released with an Operating system. 
+They are designed in a manner that they can help a small device work efficiently
+
+FUNCTIONS OF AN OPERATING SYSTEM
+-IT HELPS IN MANAGING COMPUTER RESOURCES.
+-IT IS A SERVICE PROVIDER
+-IT IS USED TO DETECT BUGS OR ERRORS
+-IT IS USED TO RUN ANY KIND OF PROGRAM
+-IT COORDINATES THE SOFTWARE AND ITS USER
+
+LIST OF COMMON OPERATING SYSTEM
+-ANDRIOD--------2008
+-IOS------------2007
+-WINDOWS--------1985
+-MAC OS---------2001
+-MS-DOS---------1981
+-CHROME OS------2011
+-WINDOWS PHONE--2010
+-BLACKBERRY OS--1999
+-FIREFOX OS-----2013
+-UNIX-----------1969
